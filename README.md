@@ -1,13 +1,20 @@
 # Data Analyst
 
+#### Technical Skills: Python, R, Excel, VBA, Power BI
+
 ### Education
-Mathematics and Computer Science, Master Degree
+  - Statistics and Actuarial Science, Master's Degree | IRIAF - Institut des Risques Industriels, Assurantiels et Financiers (May 2023)
+  - Mathematics and Computer Science Applied to the Humanities and Social Sciences, Bachelor's Degree | Université de Pau et des Pays de l'Adour (June 2021)
 
 ### Work Experience
-Data Analyst @ Safran Helicopter Engines
-  - big impact projet 1
-  - big impact project 2
+**Data Analyst @ Safran Helicopter Engines, Bordes, France (_September 2022 - September 2023_)**
+  - Provide visualizations based on the budgetary and temporal data of various projects
+  - Act as a database administrator and respond to ticketing requests
+  
+**Data Analyst @ Safran Helicopter Engines, Tarnos, France (_May 2022 - September 2022_)**
+  - Implementation of forecasting tools
+  - Automation of management indicators
 
 ### Projects
-League Of Legends Stats
+
 
