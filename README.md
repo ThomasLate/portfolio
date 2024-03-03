@@ -3,8 +3,8 @@
 #### Technical Skills: Python, R, Excel, VBA, Power BI
 
 ### Education
-  - Statistics and Actuarial Science, Master's Degree | IRIAF - Institut des Risques Industriels, Assurantiels et Financiers (May 2023)
-  - Mathematics and Computer Science Applied to the Humanities and Social Sciences, Bachelor's Degree | Université de Pau et des Pays de l'Adour (June 2021)
+  - Statistics and Actuarial Science, Master's Degree | IRIAF - Institut des Risques Industriels, Assurantiels et Financiers (_May 2023_)
+  - Mathematics and Computer Science Applied to the Humanities and Social Sciences, Bachelor's Degree | Université de Pau et des Pays de l'Adour (_June 2021_)
 
 ### Work Experience
 **Data Analyst @ Safran Helicopter Engines, Bordes, France (_September 2022 - September 2023_)**
