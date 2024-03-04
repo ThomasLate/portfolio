@@ -16,5 +16,10 @@
   - Automation of management indicators
 
 ### Projects
+As a Data Analyst, I believe there are 5 important steps in a data project: Data Cleaning, Data Analysis, Data Visualization, Data Engineering, and Communication.
 
+With the various projects below, I have tried to cover all these topics.
+
+**Data Cleaning : FIFA 2021**
+This project use a very messy dataset, where data has been scraped 
 
