@@ -39,7 +39,7 @@ Methods Used:
 
 Descriptive statistics
 
-![Thomas](/assets/img/Thomas_Linkedin.png")
+![Thomas](/assets/img/glm_1.jpg")
 
 ### Personal Projects
 As a Data Analyst, I believe there are 5 important steps in a data project: Data Cleaning, Data Analysis, Data Visualization, Data Engineering, and Communication.
