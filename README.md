@@ -3,8 +3,11 @@
 #### Technical Skills: Python, R, Excel, VBA, Power BI
 
 ### Education
-  - Statistics and Actuarial Science, Master's Degree | IRIAF - Institut des Risques Industriels, Assurantiels et Financiers (_May 2023_)
-  - Mathematics and Computer Science Applied to the Humanities and Social Sciences, Bachelor's Degree | Université de Pau et des Pays de l'Adour (_June 2021_)
+   Statistics and Actuarial Science, Master's Degree | IRIAF - Institut des Risques Industriels, Assurantiels et Financiers (_May 2023_)
+
+  ---
+   
+   Mathematics and Computer Science Applied to the Humanities and Social Sciences, Bachelor's Degree | Université de Pau et des Pays de l'Adour (_June 2021_)
 
 ### Work Experience
 **Data Analyst @ Safran Helicopter Engines, Bordes, France (_September 2022 - September 2023_)**
@@ -15,7 +18,9 @@
   - Implementation of forecasting tools
   - Automation of management indicators
 
-### Projects
+### University Projects
+
+### Personal Projects
 As a Data Analyst, I believe there are 5 important steps in a data project: Data Cleaning, Data Analysis, Data Visualization, Data Engineering, and Communication.
 
 With the various projects below, I have tried to cover all these topics.
