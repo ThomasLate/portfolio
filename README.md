@@ -31,7 +31,7 @@ With the projects I was able to do during university as well as my personal proj
 ### Personal Projects
 **FIFA 2021**
 
-_IMAGE GAMING_
+![img_gaming](assets/img/persoprojet_gaming.jpg)
 
 In this project, I had the opportunity to work on a large dataset containing information about players from the FIFA 21 video game. The problem with this dataset is that it contained a lot of errors or difficult data to understand. A major cleaning was necessary if we wanted to use this dataset for more in-depth analysis.
 
@@ -46,7 +46,8 @@ _IMAGE NETFLIX_
 
 The data provided for this project consisted of the content available on NETFLIX (movies, director names, release dates). By performing simple descriptive statistics and analyses, we can gain a real insight into what is contained in this dataset. Additionally, one interesting aspect of this project is that the data spans over time, allowing us to observe the evolution of certain variables such as the duration of movies or the genres of films.
 
-_img country production_ _img duration_
+![movies_countryproduction](assets/img/movies_countryproduction.JPG) | ![movies_duration](assets/img/movies_duration.JPG)
+
 
 **MUSIC PROJECT**
 
@@ -56,7 +57,7 @@ The ultimate goal with this dataset was to associate each piece of music with a 
 
 To achieve this, we had a first dataset for training a classification model and a second dataset for testing this model.
 
-_IMAGE music_summary_
+![music_dataset](assets/img/music_dataset_summary.JPG)
 
 ### University Projects
 **Actuarial Analysis of the AUTO4+ Contract for SAssuranceS**
