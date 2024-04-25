@@ -81,11 +81,11 @@ Focus on the Third Party Collision Damage Guarantee:
 
 The Third Party Collision Damage Guarantee, automatically included in the AUTO4+ contract, was the main focus of our study. We examined claims related to this guarantee, with an emphasis on managing delays and complex claims.
 
-Methods Used:
+**Statistical Study on Everyday Accidents**
 
-Descriptive statistics
+In partnership with the company Calyxis, we conducted a study on everyday accidents.
 
-![Thomas](assets/img/stats_descrip_1.jpg)
+The aim of the study was to enhance understanding of everyday accidents in order to improve public prevention measures.
 
-
+Using their database, our goal was to gain a better understanding of the study participants, the accidents themselves, and the factors that increase or decrease the risk of experiencing an accident.
 
