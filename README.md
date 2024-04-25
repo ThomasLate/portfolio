@@ -33,6 +33,10 @@ With the projects I was able to do during university as well as my personal proj
 
 ![img_gaming](assets/img/persoprojet_gaming.jpg)
 
+<p align="center">
+  <img src="assets/img/persoprojet_gaming.jpg" />
+</p>
+
 In this project, I had the opportunity to work on a large dataset containing information about players from the FIFA 21 video game. The problem with this dataset is that it contained a lot of errors or difficult data to understand. A major cleaning was necessary if we wanted to use this dataset for more in-depth analysis.
 
 Tasks tackled in this project include:
