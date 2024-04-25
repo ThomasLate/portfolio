@@ -45,7 +45,7 @@ Tasks tackled in this project include:
 **NETFLIX DATA**
 
 <p align="center">
-  <img src="assets/img/Netflix-Logo.jpg" />
+  <img src="assets/img/Netflix-Logo.jpg" width="300"/>
 </p>
 
 The data provided for this project consisted of the content available on NETFLIX (movies, director names, release dates). By performing simple descriptive statistics and analyses, we can gain a real insight into what is contained in this dataset. Additionally, one interesting aspect of this project is that the data spans over time, allowing us to observe the evolution of certain variables such as the duration of movies or the genres of films.
