@@ -51,7 +51,7 @@ Tasks tackled in this project include:
 The data provided for this project consisted of the content available on NETFLIX (movies, director names, release dates). By performing simple descriptive statistics and analyses, we can gain a real insight into what is contained in this dataset. Additionally, one interesting aspect of this project is that the data spans over time, allowing us to observe the evolution of certain variables such as the duration of movies or the genres of films.
 
 
-<img src="assets/img/movies_countryproduction.JPG" width="300"/> | <img src="assets/img/movies_duration.JPG" width="300"/>
+![movies_countryproduction](assets/img/movies_countryproduction.JPG) | ![movies_duration](assets/img/movies_duration.JPG)
 
 
 **MUSIC PROJECT**
