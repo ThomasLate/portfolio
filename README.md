@@ -20,6 +20,44 @@
   - Implementation of forecasting tools
   - Automation of management indicators
 
+---
+
+As a Data Analyst, I believe there are 5 important steps in a data project: Data Cleaning, Data Analysis, Data Visualization, Data Engineering, and Communication.
+
+With the projects I was able to do during university as well as my personal projects I tried to cover all these subjects.
+
+---
+
+### Personal Projects
+**FIFA 2021**
+
+_IMAGE GAMING_
+
+In this project, I had the opportunity to work on a large dataset containing information about players from the FIFA 21 video game. The problem with this dataset is that it contained a lot of errors or difficult data to understand. A major cleaning was necessary if we wanted to use this dataset for more in-depth analysis.
+
+Tasks tackled in this project include:
+- Converting data to make it more understandable to a wider audience.
+- Formatting certain columns that contained unnecessary characters.
+- Creating new variables to make the data clearer.
+
+**NETFLIX DATA**
+
+_IMAGE NETFLIX_
+
+The data provided for this project consisted of the content available on NETFLIX (movies, director names, release dates). By performing simple descriptive statistics and analyses, we can gain a real insight into what is contained in this dataset. Additionally, one interesting aspect of this project is that the data spans over time, allowing us to observe the evolution of certain variables such as the duration of movies or the genres of films.
+
+_img country production_ _img duration_
+
+**MUSIC PROJECT**
+
+One of the projects I enjoyed working on the most due to its complexity but also because the subject matter was very interesting.
+
+The ultimate goal with this dataset was to associate each piece of music with a music genre using certain variables such as energy, music loudness, and many others.
+
+To achieve this, we had a first dataset for training a classification model and a second dataset for testing this model.
+
+_IMAGE music_summary_
+
 ### University Projects
 **Actuarial Analysis of the AUTO4+ Contract for SAssuranceS**
 
@@ -41,11 +79,5 @@ Descriptive statistics
 
 ![Thomas](assets/img/stats_descrip_1.jpg)
 
-### Personal Projects
-As a Data Analyst, I believe there are 5 important steps in a data project: Data Cleaning, Data Analysis, Data Visualization, Data Engineering, and Communication.
 
-With the various projects below, I have tried to cover all these topics.
-
-**Data Cleaning : FIFA 2021**
-This project use a very messy dataset, where data has been scraped 
 
